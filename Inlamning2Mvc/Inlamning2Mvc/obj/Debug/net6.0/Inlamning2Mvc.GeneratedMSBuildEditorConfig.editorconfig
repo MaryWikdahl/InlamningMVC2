@@ -1,0 +1,124 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Inlamning2Mvc
+build_property.RootNamespace = Inlamning2Mvc
+build_property.ProjectDir = C:\Skolan\Inlamning2Mvc\Inlamning2Mvc\Inlamning2Mvc\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Skolan\Inlamning2Mvc\Inlamning2Mvc\Inlamning2Mvc
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Auth/SignIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Auth/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/ProfileEntities/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZUVudGl0aWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/ProfileEntities/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZUVudGl0aWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/ProfileEntities/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZUVudGl0aWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/ProfileEntities/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZUVudGl0aWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/ProfileEntities/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZUVudGl0aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Profile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmlsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Service/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Shared/_ContactPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db250YWN0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Shared/_ContactsCardsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db250YWN0c0NhcmRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Shared/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Shared/_HeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Shared/_Layout404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQ0MDQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Shared/_ServicesCardsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZXJ2aWNlc0NhcmRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Shared/_ServicesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZXJ2aWNlc1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Shared/_Showcase2Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaG93Y2FzZTJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Shared/_Showcase3Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaG93Y2FzZTNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Shared/_Showcase4Partial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaG93Y2FzZTRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Shared/_ShowcasePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaG93Y2FzZVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/_404Controller/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcXzQwNENvbnRyb2xsZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Skolan/Inlamning2Mvc/Inlamning2Mvc/Inlamning2Mvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ta8y77sgo2

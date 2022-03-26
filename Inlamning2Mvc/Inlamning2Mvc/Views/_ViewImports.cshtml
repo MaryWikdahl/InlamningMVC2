@@ -1,0 +1,14 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Inlamning2Mvc
+@using Inlamning2Mvc.Models
+@using Inlamning2Mvc.Helpers
+@using Inlamning2Mvc.Models.Entity
+
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@inject IProfileManager ProfileManager
+@inject RoleManager<IdentityRole> RoleManager
+
+
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers

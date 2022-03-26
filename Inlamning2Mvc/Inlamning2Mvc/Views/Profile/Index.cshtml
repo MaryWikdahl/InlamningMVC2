@@ -1,0 +1,31 @@
+﻿@model Inlamning2Mvc.Models.UserProfile
+
+        <div class="bg-blue-gradient">
+       <div class="container">
+          <div class="mt-5">
+    <h3> Profile:</h3>
+    <div class="d-flex"><p>Name: </p><p style="padding-left:5px">@Model.FirstName @Model.LastName</p></div>
+    <div class="d-flex"><p>Email: </p><p style="padding-left:5px">@Model.Email</p></div> 
+    <div class="d-flex"><p>Role: </p> <p style="padding-left:5px">@ProfileManager.GetRolesById(@Model.Id) </p></div>
+     <div class="d-flex"><p>Address: </p ><p style="padding-left:5px">@Model.Address</p></div>
+      <div class="d-flex"><p>Zipcode: </p > <p style="padding-left:5px">@Model.ZipCode</p></div>
+       <div class="d-flex"><p>City: </p> <p style="padding-left:5px">@Model.City</p></div>
+        <div class="d-flex"><p>Country: </p> <p style="padding-left:5px">@Model.Country</p></div>
+      
+   
+    
+   
+   
+   
+</div>
+       </div>
+ </div>
+
+
+
+
+
+
+    
+
+ 
